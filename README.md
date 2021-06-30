@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# BlueNaut for RES
 
-You can use the [editor on GitHub](https://github.com/Huygenz/huygenz/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Naut is a CSS theme you can use on [Reddit](http://www.Reddit.com). It's free to use, any Subreddit can use and edit it. Visit [/r/Naut](http://www.Reddit.com/r/Naut) to preview the theme. This fork is done for personal use and further customization.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## THIS IS WORK IN PROGRESS!
 
-### Markdown
+### Goal
+Getting Naut to play nice with RES.
+Changing Naut to fit my flat [Bluemist theme for Brackets](https://github.com/huygenz/brackets-bluemist).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### WIP
+It's still missing much stuff but if you want to give it a go, you can link RES to this Stylesheet:
+[https://huygenz.github.io/huygenz/bluenaut.min.css](https://huygenz.github.io/huygenz/bluenaut.min.css)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Huygenz/huygenz/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Preview
+![RosybrownHornbill](https://user-images.githubusercontent.com/2411715/124015109-9aee2000-d9e4-11eb-8116-456dd722e648.png)

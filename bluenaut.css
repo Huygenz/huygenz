@@ -2652,7 +2652,7 @@ div.titlebox span.number:after {
 }
 
 .res-nightmode .arrow {
-    background-image: url(Images/spritesheet.png)!important !important
+    background-image: url(/Images/spritesheet.png)!important
 }
 
 .res-nightmode .arrow.up {

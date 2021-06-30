@@ -48,6 +48,10 @@ div.commentarea div.RES-keyNav-activeElement.entry div.noncollapsed {
     background-color: #394551 !important
 }
 
+.res-nightmode .link, .res-nightmode .helpcenter-form .section-content {
+    background-color: #394551 !important
+}
+
 *,
 :after,
 :before {

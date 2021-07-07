@@ -1,7 +1,6 @@
 # Bluemist Themes
 
-I'm from Germany. I'm currently obsessed with #394551 ![394551](https://user-images.githubusercontent.com/2411715/124731324-6a414580-df12-11eb-8dca-6e0d272a9179.png)
-. This is why I make themes.
+I'm from Germany. I'm currently obsessed with #394551 ![394551](https://user-images.githubusercontent.com/2411715/124731324-6a414580-df12-11eb-8dca-6e0d272a9179.png). This is why I make themes.
 
 ## Bluemist for Firefox
 A simple and flat Firefox theme. Get it here:

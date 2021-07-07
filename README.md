@@ -19,7 +19,7 @@ This contains two seperate themes: One is a full Brackets theme, the other one g
 
 ## BlueNaut for Reddit (RES)
 A fork of Naut for Reddit. Getting Naut to play nice with Reddit (RES). Changing Naut to fit my flat [Bluemist theme for Brackets](https://github.com/huygenz/brackets-bluemist).
-It's still missing much stuff but if you want to give it a go, you can link RES to this Stylesheet.
+It's still missing much stuff but if you want to give it a go, you can link RES to this Stylesheet:
 
 * ![github](https://user-images.githubusercontent.com/2411715/124732862-ea1bdf80-df13-11eb-94b6-0a28782c80d6.png) **[Stylesheet Link](https://huygenz.github.io/huygenz/bluenaut/bluenaut.min.css)**
 

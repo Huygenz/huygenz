@@ -9,7 +9,7 @@ A simple and flat Firefox theme. Get it here:
 
 ## Bluemist for Brackets
 Brackets is my editor to go and I like it when it integrates into my colorscheme.
-This contains two seperate themes: One is a simple Brackets theme, the other one goes a bit further and changes the colors of Brackets UI itself. Get them here at GitHub:
+This contains two seperate themes: One is a full Brackets theme, the other one goes a bit further and changes the colors of Brackets UI itself. Get them here at GitHub:
 * ![github](https://user-images.githubusercontent.com/2411715/124732862-ea1bdf80-df13-11eb-94b6-0a28782c80d6.png)  **[Bluemist for Brackets](https://github.com/Huygenz/Bluemist-for-Brackets)**
 * ![github](https://user-images.githubusercontent.com/2411715/124732862-ea1bdf80-df13-11eb-94b6-0a28782c80d6.png) **[BluemistUI for Brackets](https://github.com/Huygenz/Bluemist-UI-for-Brackets)**
 

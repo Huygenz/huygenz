@@ -5,14 +5,14 @@ I'm from Germany. I'm currently obsessed with #394551 ![394551](https://user-ima
 
 ## Bluemist for Firefox
 A simple and flat Firefox theme. Get it here:
-* **[Mozilla](https://addons.mozilla.org/de/firefox/addon/bluemist-for-firefox/)**
-* **[GitHub](https://github.com/Huygenz/Bluemist-for-Firefox)**
+* ![firefox](https://user-images.githubusercontent.com/2411715/124732541-93160a80-df13-11eb-80bc-e9299a58d12f.png)**[Mozilla](https://addons.mozilla.org/de/firefox/addon/bluemist-for-firefox/)**
+* ![github](https://user-images.githubusercontent.com/2411715/124732147-3d416280-df13-11eb-8b79-baf396aa3edc.png)**[GitHub](https://github.com/Huygenz/Bluemist-for-Firefox)**
 
 ## Bluemist for Brackets
 Brackets is my editor to go and I like it when it integrates into my colorscheme.
 This contains two seperate themes: One is a simple Brackets theme, the other one goes a bit further and changes the colors of Brackets UI itself. Get them here at GitHub:
-* **[Bluemist for Brackets](https://github.com/Huygenz/Bluemist-for-Brackets)**
-* **[BluemistUI for Brackets](https://github.com/Huygenz/Bluemist-UI-for-Brackets)**
+* ![github](https://user-images.githubusercontent.com/2411715/124732147-3d416280-df13-11eb-8b79-baf396aa3edc.png)**[Bluemist for Brackets](https://github.com/Huygenz/Bluemist-for-Brackets)**
+* ![github](https://user-images.githubusercontent.com/2411715/124732147-3d416280-df13-11eb-8b79-baf396aa3edc.png)**[BluemistUI for Brackets](https://github.com/Huygenz/Bluemist-UI-for-Brackets)**
 
 ![Preview](https://user-images.githubusercontent.com/2411715/122951066-4829be00-d37d-11eb-8c15-2065a243f891.png)
 
